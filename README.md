@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Roche619
 - 👀 I’m interested in how this system works
-- 🌱 I’m currently learning the basics
-- 💞️ I’m looking to collaborate eventually
 - 📫 roche0619@outlook.com
 
 <!---
